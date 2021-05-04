@@ -65,6 +65,3 @@ arguments. In order to get an up-to-date help document, just run
 * * Use HTTPS for the requests
 * --sleeptime
 * * Time to sleep between each header sent
-
-## License
-The code is licensed under the MIT License.
